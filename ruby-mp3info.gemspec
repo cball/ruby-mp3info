@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Chris Ball"]
   s.email       = ["cball@echobind.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{ruby-mp3info read low-level informations and manipulate tags on mp3 files.}
+  s.description = %q{ruby-mp3info read low-level informations and manipulate tags on mp3 files.}
 
   s.rubyforge_project = "ruby-mp3info"
 
