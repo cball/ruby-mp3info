@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "ruby-mp3info/version"
+require "mp3info/version"
 
 Gem::Specification.new do |s|
   s.name        = "ruby-mp3info"
